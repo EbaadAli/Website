@@ -6,19 +6,21 @@ export default class ContactUs extends Component {
       <section id="contact">
           <div className="row section-head">
             <div className="ten columns">
-              <p className="lead">
-              Feel free to contact me for any work or suggestions below
-              </p>
-            </div>
-          </div>
-          <div className="row">
-            <aside className="eigth columns footer-widgets">
-              <div className="widget">
-                <h4>Linked in :
-                  <a href={resumeData.linkedinId}> Linked</a>
-                </h4>
-              </div>
-            </aside>
+            <h2> Feel Free to Contact Me</h2>
+            <h4>
+              Phone: +1 (416) 566-8510
+            </h4>
+            <h4>
+              Email: <a href="mailto:ebaadali@gmail.com"> ebaadali@gmail.com </a>
+            </h4> 
+            <h4>
+              LinkedIn: <a href="www.linkedin.com/in/ebaadali"> ebaadali@gmail.com </a>
+            </h4>
+            <h4>
+            <a href="http://www.ebaadali.wordpress.com"> Check out my Blogs!</a>
+          </h4>
+            
+           </div>
           </div>
         </section>
         );
