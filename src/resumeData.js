@@ -95,23 +95,27 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Inventory Management System",
-        "description":"Using HTML, CSS, and PHP",
-        "imgurl":"images/SportsGalore.png"
+        "description":"This was a website designed using HTML, PHP, CSS, and MySQL. My proudest feature in this is the Search function",
+        "imgurl":"images/SportsGalore.png",
+        "projurl":"https://github.com/EbaadAli/MyProjects/tree/master/HTML-CSS-PHP/Sports%20Inventory"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/NuStore.png"
+        "name":"Generating Commercial Software Charts",
+        "description":"Visually representing data using Java applets",
+        "imgurl":"images/charts.png",
+        "projurl" : "https://github.com/EbaadAli/MyProjects/tree/master/Java/CommercialSoftwareChart"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/robot.gif"
+        "name":"TCP Connection with an Arduino Robot",
+        "description":"Coded a TCP server application that sent it commands to maneuver it through a maze ",  
+        "imgurl":"images/robot.gif",
+        "projurl": "https://github.com/EbaadAli/MyProjects/tree/master/C%2B%2B/Arduino_TCP_Connect"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/destiny.png"
+        "name":"Destiny Fan Site",
+        "description":"This is a very simple and barebone website. Nothing to be proud of here except for my photo editing skills",
+        "imgurl":"images/destiny.png",
+        "projurl" : "https://github.com/EbaadAli/MyProjects/tree/master/HTML-CSS-PHP/Destiny%20FanSite"
       }
     ],
     "testimonials":[
