@@ -13,15 +13,16 @@ export default class Porfolio extends Component {
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href={item.projurl} target="_blank" rel="noopener noreferrer">
                       <img src={`${item.imgurl}`} alt={item.description} className="item-img"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
+                        <a href="https://www.google.ca" target="_blank" rel="noopener noreferrer">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
+                        </a>
                         </div>
                       </div>
-                    </a>
+                    
                   </div>
                 </div>
               )
