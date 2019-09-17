@@ -12,7 +12,7 @@ export default class Porfolio extends Component {
             resumeData.portfolio && resumeData.portfolio.map((item)=>{
               return(
                 <div className="columns portfolio-item">
-                <a href="https://www.google.ca" target="_blank" rel="noopener noreferrer">
+                <a href={item.projurl} target="_blank" rel="noopener noreferrer">
                   <div className="item-wrap">
                       <img src={`${item.imgurl}`} alt={item.description} className="item-img"/>
                       <div className="overlay">
