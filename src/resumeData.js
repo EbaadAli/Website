@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Ebaad Ali",
     "role": "I'm Ebaad Ali, and I am a Computer Programmer and Analyst",
     "linkedinId":"www.linkedin.com/in/EbaadAli",
-    "github": "www.github.com/EbaadAli/Projects",
+    "github": "https://github.com/EbaadAli/MyProjects?files=1",
     "roleDescription": "Fullstack/Software Developer",
     "socialLinks":[
         {
