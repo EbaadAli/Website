@@ -1,24 +1,24 @@
 import React, { Component } from 'react';
 import Bars from 'react-bars';
 
-const skills =[
-  {label:'SQL', value:98},
-  {label:'HTML5', value:95},
-  {label:'CSS', value:90},
-  {label:'Javascript (ES5/ES6)', value:80},
-  {label:'Bootstrap', value:90},
-  {label:'C++', value: 90},
-  {label:'Java', value: 90},
+const skills = [
+    { label: 'Angular.js', value: 85 },
+    { label: 'ASP .NET', value: 95 },
+    { label: 'Bootstrap', value: 90 },
+    { label: 'C / C++', value: 90 },
+    { label: 'CSS', value: 90 },
+    { label: 'HTML5', value: 95 },
+    { label: 'Java', value: 90 },
 ] ;
 
-const skills2=[
-  {label:'ASP .NET', value: 90},
-  {label:'React', value:85},
-  {label:'Angular.js', value:60},
-  {label:'Node.js', value:60},
-  {label:'Python', value:90},
-  {label:'JQuery', value:80},
-  {label:'Bar to fill my OCD', value: 100}
+const skills2 = [
+    { label: 'Javascript', value: 80 },
+    { label: 'JQuery', value: 80 },
+    { label: 'Node.js', value: 70 },
+    { label: 'PowerBI', value: 95 },
+    { label: 'Python', value: 90 },
+    { label: 'React', value: 65 },
+    { label: 'SQL', value: 98 },
 ] ;
 
 
@@ -71,11 +71,17 @@ export default  class Resume extends Component {
                           <p className="info">
                           {item.specialization}
                           <span>&bull;</span> <em className="date">{item.MonthStarted}{item.YearStarted} - {item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
-                          <ul>
+                              <ul id="bullet">
                            <li>{item.Achievement1}</li>
                            <li>{item.Achievement2}</li>
                            <li>{item.Achievement3}</li>
                            <li>{item.Achievement4}</li>
+                           <li>{item.Achievement5}</li>
+                           <li >{item.Achievement6}</li>
+                           <li>{item.Achievement7}</li>
+                           <li>{item.Achievement8}</li>
+                           <li>{item.Achievement9}</li>
+                           <li>{item.Achievement10}</li>
                           </ul>
                        </div>
 

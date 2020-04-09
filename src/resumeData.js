@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Ebaad Ali",
     "role": "I'm Ebaad Ali, and I am a Computer Programmer and Analyst",
     "linkedinId":"www.linkedin.com/in/EbaadAli",
-    "github": "www.github.com/EbaadAli/Projects",
+    "github": "https://github.com/EbaadAli/MyProjects?files=1",
     "roleDescription": "Fullstack/Software Developer",
     "socialLinks":[
         {
@@ -30,7 +30,25 @@ let resumeData = {
       },
    
     ],
-    "work":[
+    "work": [
+        {
+            "CompanyName": "CanACRE",
+            "specialization": "Junior Software Developer",
+            "MonthStarted": "October",
+            "YearStarted": "2019",
+            "MonthOfLeaving": "April",
+            "YearOfLeaving": "2020",
+            "Achievement1": "• On boarded onto a project with the purpose of revamping legacy applications.",
+            "Achievement2": "• Provided application and developmental insight to stakeholders and senior management",
+            "Achievement3": "• Maintaining and modifying database in an Azure cloud environment",
+            "Achievement4": "• Used ESRI API to integrate ArcGIS features into product",
+            "Achievement5": "• Write and Maintain Unit test cases for both front and back-end",
+            "Achievement6": "• Efficiently worked in an Scrum environment with other developers using version control and CI/CD build pipelines",
+            "Achievement7": "• Assisted Scrum master with scrum duties",
+            "Achievement8": "• Created analytical reports in PowerBI",
+            "Achievement9": "• Debugging new and ongoing issues",
+            "Achievement10": "• Debugging new and ongoing issues",
+        },
       {
         "CompanyName": "Cell-Mate",
         "specialization": "Junior Software Architect",
@@ -65,7 +83,7 @@ let resumeData = {
         "MonthOfLeaving":"September",
         "YearOfLeaving":"2016",
         "Achievement1": "•	Ensured full functionality of various social media APIs in order to enable synchronized logins, content sharing features, and other forms of backlink generation in a seamless end-user process", 
-        "Achievment2":"•	Collaborated towards appealing and professional web design"
+        "Achievement2":" •	Collaborated towards appealing and professional web design"
       }
     ],
     "skillsDescription":"Experienced In: ",
