@@ -2,8 +2,8 @@ let resumeData = {
     "imagebaseurl":"images/mom_and_me.jpg",
     "name": "Ebaad Ali",
     "role": "I'm Ebaad Ali, and I am a Computer Programmer and Analyst",
-    "linkedinId":"www.linkedin.com/in/EbaadAli",
-    "github": "https://github.com/EbaadAli/MyProjects?files=1",
+    "linkedinId":"https://www.linkedin.com/in/EbaadAli",
+    "github": "https://www.github.com/EbaadAli/MyProjects?files=1",
     "roleDescription": "Fullstack/Software Developer",
     "socialLinks":[
         {
@@ -13,7 +13,7 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"http://github.com/EbaadAli/Projects",
+          "url":"https://www.github.com/EbaadAli/MyProjects?files=1",
           "className":"fa fa-github"
         },
       ],
