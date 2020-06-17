@@ -17,7 +17,7 @@ export default class About extends Component {
                <h2>About Me</h2>
                <p>
                I am a recent graduate of Seneca as a Computer Programmer and Analyst who has an extensive background in Java, C++ and a long list of web development frameworks/languages. I am a quick and eager learner whos references will agree that I can be an asset to any team. <br/> 
-               <h2>Download my resume</h2><h3><a className="buttonDownload" href="images/EbaadAli_Resume" download> Here </a></h3> 
+               <h2>Download my resume</h2><h3><a className="buttonDownload" href="images/EbaadAli_Resume.pdf" download> Here </a></h3> 
 
                </p>
 
