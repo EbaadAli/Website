@@ -8,7 +8,7 @@
     "react-dom": "^16.6.0",
     "react-scripts": "2.1.1"
   },
-  "homepage": "https://ebaadali.github.io/Website",
+  "homepage": "https://ebaadali.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
